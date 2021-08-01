@@ -1,0 +1,4 @@
+$$("input") -> [input.ddl-shortlink, input.ddl-facebooklink, input.ddl-twitterlink, input.ddl-emaillink, input.ddl-copylink, input.gLFyf.gsfi, input.gNO89b, input.RNmpXc, input.gNO89b, input.RNmpXc, input, input, input, input]
+
+$$("input.gLFyf.gsfi") -> [input.gLFyf.gsfi]
+
